@@ -24,6 +24,8 @@ Explanation:
 If you take out every symbol and leave only the letters and numbers,
 your text says 'lets go and get lunch'.
 '''
+#code goes here
+
 a=list(input())
 out=[]
 for i in a:
