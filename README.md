@@ -1,0 +1,2 @@
+# sololearn
+Easy Sololearn Tasks
